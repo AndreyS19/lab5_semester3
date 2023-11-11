@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class task5
 {
     int prov=0;
-    public static void task5_var5() {
+    public static void task5_var2() {
         Scanner scan=new Scanner(System.in);
         String[] clients=new String[]{"176.62.80.71","127.0.0.1","179.16.235.2"};
         int prov=0;
